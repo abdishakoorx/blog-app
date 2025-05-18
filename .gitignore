@@ -1,4 +1,6 @@
 **/node_modules/**
+**/dist
+**/build
 /.pnp
 .pnp.*
 .yarn/*
@@ -36,3 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Turbo
+.turbo/
